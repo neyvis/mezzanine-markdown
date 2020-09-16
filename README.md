@@ -1,4 +1,4 @@
-# Toilmore API Demo
+# Markdown Editor in Mezzanine
 
 Let's configure Django Mezzanine to add content using markdown. The docs say it is possible to do that, but let's make sure it is, and test it locally first.
 ## Built With
